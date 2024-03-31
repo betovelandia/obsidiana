@@ -1,0 +1,21 @@
+{
+  "name": "esmeralda",
+  "displayName": "Esmeralda",
+  "description": "Esmeraldas for your VSCode",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.87.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Esmeralda",
+        "uiTheme": "hc-black",
+        "path": "./themes/Esmeralda-color-theme.json"
+      }
+    ]
+  }
+}
