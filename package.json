@@ -1,0 +1,21 @@
+{
+  "name": "obsidiana",
+  "displayName": "Obsidiana",
+  "description": "Obsidiana for your VSCode.",
+  "version": "0.0.2",
+  "engines": {
+    "vscode": "^1.88.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Obsidiana",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Obsidiana-color-theme.json"
+      }
+    ]
+  }
+}
